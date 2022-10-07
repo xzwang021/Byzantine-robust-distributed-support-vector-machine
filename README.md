@@ -1,5 +1,4 @@
-# Byzantine-robust-distributed-support-vector-machine
-This repository contains MATLAB codes of Byzantine-robust distributed gradient descent algorithms for support vector machine.
+This repository contains MATLAB codes of Byzantine-robust distributed algorithms for support vector machine.
 
 Robust_SVM_Model1_error.m is the procedure of error comparison under Model I.
 
